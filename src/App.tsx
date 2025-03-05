@@ -3,7 +3,7 @@ import { CssBaseline, List, ListItem, ListItemText, Box } from "@mui/material";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 import Shop from "./pages/Shop";
 import Logs from "./pages/Logs";
-import "./app.css";
+import "./App.css";
 import Usage from "./pages/Usage";
 
 const theme = createTheme({
