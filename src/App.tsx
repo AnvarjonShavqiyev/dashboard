@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
-import { CssBaseline, Drawer, List, ListItem, ListItemText, Box } from "@mui/material";
+import { CssBaseline, List, ListItem, ListItemText, Box } from "@mui/material";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 import Shop from "./pages/Shop";
 import Logs from "./pages/Logs";
