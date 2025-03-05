@@ -26,7 +26,7 @@ const AddProductDialog: React.FC<AddProductDialogProps> = ({ open, onClose }) =>
 
   return (
     <Dialog open={open} onClose={onClose}>
-      <DialogTitle>Mahsulot qo'shish</DialogTitle>
+      <DialogTitle>Xo'rozqand qo'shish</DialogTitle>
       <DialogContent>
         <TextField
           label="Amount"
